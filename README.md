@@ -1,6 +1,31 @@
-# Welcome to your Expo app 👋
+# 📱 Finance Management App
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+A mobile app built with **React Native** using **Expo** and **JavaScript**, designed to help users manage their daily expenses with ease. The app provides features like expense tracking, category-wise grouping, and visualizations using charts.
+
+## 🛠 Features
+
+- Add and manage expenses
+- Categorize expenses (e.g., Kitchen, Home, Medical, etc.)
+- Visual bar and line charts for spending trends
+- Category-wise total calculations
+- Responsive and minimal UI using `StyleSheet`
+
+## 📱 Technologies Used
+
+- **React Native**
+- **Expo**
+- **JavaScript**
+- **react-native-svg-charts** – For Bar and Line Charts
+- **react-native-paper** – For UI components like buttons, menus, etc.
+- **StyleSheet** – Native styling approach
+
+## 🚀 Getting Started
+
+### 1. Clone the repo
+
+```bash
+git clone https://github.com/yourusername/finance-app.git
+cd finance-app
 
 ## Get started
 
